@@ -50,7 +50,3 @@ function flipCard(cardId) {
 flipCard(0);
 
 flipCard(2);
-
-
-
-
