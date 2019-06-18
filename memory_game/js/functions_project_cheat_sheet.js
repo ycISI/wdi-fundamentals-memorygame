@@ -22,6 +22,4 @@ function flipCard(cardId) {
 flipCard(0);
 flipCard(2);
 
-
 console.log(cardsInPlay) ; 
-
